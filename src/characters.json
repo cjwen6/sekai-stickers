@@ -5058,7 +5058,7 @@
         "name": "xe 01",
         "character": "xe",
         "img": "cjwens/xeyx.jpg",
-        "color": "#00ccff",
+        "color": "#ff0000",
         "defaultText": {
             "text": "something",
             "x": 148,
