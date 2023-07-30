@@ -5024,6 +5024,20 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id":"375",
+        "name": "djq 01",
+        "character": "djq",
+        "img": "cjwens/djqwc.jpg",
+        "color": "#bc2b17",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
   
 ]
