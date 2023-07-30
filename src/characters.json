@@ -5038,6 +5038,20 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id":"376",
+        "name": "dlx 01",
+        "character": "dlx",
+        "img": "cjwens/dlxbrss.jpg",
+        "color": "#00ccff",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
   
 ]
