@@ -5052,6 +5052,20 @@
             "r": -2,
             "s": 47
         }
+    },
+    {
+        "id":"377",
+        "name": "xe 01",
+        "character": "xe",
+        "img": "cjwens/xeyx.jpg",
+        "color": "#00ccff",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
     }
   
 ]
