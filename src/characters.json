@@ -5069,9 +5069,9 @@
     },
     {
         "id":"378",
-        "name": "self 01",
-        "character": "self",
-        "img": "//file:///C:/a.png",
+        "name": "catjl 01",
+        "character": "catjl",
+        "img": "cjwens/catjl.jpg",
         "color": "#ff0000",
         "defaultText": {
             "text": "something",
